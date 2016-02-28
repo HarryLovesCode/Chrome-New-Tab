@@ -1,0 +1,10 @@
+{
+  "name": "Landed",
+    "description": "Custom",
+    "version": "0.1",
+    "incognito": "split",
+    "chrome_url_overrides": {
+      "newtab": "start-page.html"
+    },
+    "manifest_version": 2
+}
